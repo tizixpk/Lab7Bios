@@ -5,7 +5,6 @@
 Entra en la BIOS o arranque de tu ordenador, ya sea el de clase o en tu casa, averigua cual es la tecl
 a que nos permite en el arranque entrar en este sistema. Describe el proceso que has seguido y adjunta una captura de pantalla del resultado (puedes utilizar la cámara de tu móvil).
 
-# Tarea: Entrar Ala Bios
 **Tecla Que Nos Permiten Ingresar:** "F2", "F10", "F12", "Esc" o "Supr", ami me funciono la tecla "Supr"...
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/9d3d7e47-865b-4c4f-bde1-c03cc35dc4f8)
 
@@ -13,7 +12,7 @@ a que nos permite en el arranque entrar en este sistema. Describe el proceso que
 ## Ejercicio 2
 
 Siguiendo los pasos que hemos visto en clase, obtén la información de tu sistema operativo acerca de si ha arrancado sobre una BIOS o sobre UEFI.
-# Tarea: UEFI O BIOS?
+
 **Respuesta:** Mi computadora me indica que ha arrancado sobre UEFI por 2 razones: Por la foto adjuntada abajos nos indica q se trata de UEFI, y ademas Presionas las Teclas Windows + R y pones "msinfo32" y te aparecera el modelo de tu Bios
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/381be99b-6cc1-4736-a138-9670aa249853)
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/b433d46d-bc10-498c-9cff-3ff4889511fe)
@@ -22,7 +21,6 @@ Siguiendo los pasos que hemos visto en clase, obtén la información de tu siste
 
 En GNU/LinuX, si hemos arrancado sobre UEFI existirá un directorio que contendrá información acerca de nuestra UEFI. ¿Cúal es? En caso de que exista...¿Cual es el contenido del fichero *systab*?
 
-## Tarea: UEFI EN LINUX
 **Respuesta:*
 ---
 
@@ -52,5 +50,5 @@ La presencia del directorio `/sys/firmware/efi` confirma que el sistema está ar
 ##Ejercicio 4
 Obtener información de cual es la temperatura del Microprocesador en tu BIOS/UEFI. Adjunta una captura/foto.
 
-##Tarea: Saber la temperatura del microprocesador
+**Respuestas**
 
