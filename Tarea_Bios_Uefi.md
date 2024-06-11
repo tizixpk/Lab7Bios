@@ -27,7 +27,7 @@ En GNU/LinuX, si hemos arrancado sobre UEFI existirá un directorio que contendr
 ---
 ## Respuesta:
 
-## UEFI en GNU/Linux
+# UEFI en GNU/Linux
 
 En sistemas GNU/Linux, el firmware UEFI (Interfaz de Firmware Extensible Unificado) desempeña un papel crucial en el proceso de arranque. Cuando el sistema se inicia con UEFI, se crea automáticamente un directorio específico que proporciona acceso a información importante sobre la configuración de la UEFI.
 
