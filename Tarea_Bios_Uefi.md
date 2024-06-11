@@ -8,6 +8,7 @@ a que nos permite en el arranque entrar en este sistema. Describe el proceso que
 ## Respuesta:
 
 **Tecla Que Nos Permiten Ingresar:** "F2", "F10", "F12", "Esc" o "Supr", ami me funciono la tecla "Supr"...
+
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/9d3d7e47-865b-4c4f-bde1-c03cc35dc4f8)
 
 
@@ -17,6 +18,7 @@ Siguiendo los pasos que hemos visto en clase, obtén la información de tu siste
 
  ## Respuesta:
  Mi computadora me indica que ha arrancado sobre UEFI por 2 razones: Por la foto adjuntada abajos nos indica q se trata de UEFI, y ademas Presionas las Teclas Windows + R y pones "msinfo32" y te aparecera el modelo de tu Bios
+ 
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/381be99b-6cc1-4736-a138-9670aa249853)
 ![image](https://github.com/tizixpk/Lab7Bios/assets/170434202/b433d46d-bc10-498c-9cff-3ff4889511fe)
 
