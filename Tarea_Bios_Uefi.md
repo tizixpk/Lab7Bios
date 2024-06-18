@@ -56,4 +56,4 @@ La presencia del directorio `/sys/firmware/efi` confirma que el sistema está ar
 Obtener información de cual es la temperatura del Microprocesador en tu BIOS/UEFI. Adjunta una captura/foto.
 
 ## Respuesta:
-
+En la Notebook del gobierno, no se encuentra la info de la temperatura del microprocesador
